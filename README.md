@@ -13,6 +13,10 @@ A production-ready Machine Learning API that predicts a normalized credit score 
 ## 🛠 Tech Stack
 Python • Pandas • Scikit-learn • FastAPI • Docker • Hugging Face
 
-## 📡 API
-`POST /predict`  
+## 🌍 Live API
+
+Deployed on Hugging Face Spaces:
+
+🔗 https://your-space-name.hf.space
+
 Returns credit score, risk level, financial metrics, and recommendations in structured JSON format.
