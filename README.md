@@ -17,6 +17,6 @@ Python • Pandas • Scikit-learn • FastAPI • Docker • Hugging Face
 
 Deployed on Hugging Face Spaces:
 
-🔗 https://gurujod-credit-score-api.hf.space/predict
+🔗https://gurujod-csp.hf.space/predict
 
 Returns credit score, risk level, financial metrics, and recommendations in structured JSON format.
